@@ -1,5 +1,7 @@
 # The Open Data Platform API
 
+***This project has been merged into [Open-Data-Platform](https://github.com/SAEONData/Open-Data-Platform).***
+
 Provides a stable interface to ODP back-end systems, with automatic API documentation using the
 OpenAPI standard. API requests are fulfilled by _adapters_ configured to handle particular routes.
 
